@@ -1,0 +1,93 @@
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.exe
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.deps.json
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.runtimeconfig.json
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.dll
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.pdb
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.Form1.resources
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.GenerateResource.cache
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.dll
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\refint\EdgeDetector.dll
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.pdb
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.genruntimeconfig.cache
+C:\Users\LEGION\source\repos\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\ref\EdgeDetector.dll
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.exe
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.deps.json
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.runtimeconfig.json
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.dll
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.pdb
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetectorC.pdb
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.AssemblyReference.cache
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.Form1.resources
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.GenerateResource.cache
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.AssemblyInfoInputs.cache
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.AssemblyInfo.cs
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.CoreCompileInputs.cache
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.CopyComplete
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.dll
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\refint\EdgeDetector.dll
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.pdb
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.genruntimeconfig.cache
+D:\Pobrane\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\ref\EdgeDetector.dll
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.exe
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.deps.json
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.runtimeconfig.json
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.dll
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.pdb
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetectorC.pdb
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.AssemblyReference.cache
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.Form1.resources
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.GenerateResource.cache
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.GeneratedMSBuildEditorConfig.editorconfig
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.AssemblyInfoInputs.cache
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.AssemblyInfo.cs
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.CoreCompileInputs.cache
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.CopyComplete
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.dll
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\refint\EdgeDetector.dll
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.pdb
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.genruntimeconfig.cache
+D:\EdgeDetector\EdgeDetector\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\ref\EdgeDetector.dll
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.exe
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.deps.json
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.runtimeconfig.json
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.dll
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.pdb
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetectorC.pdb
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.AssemblyReference.cache
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.Form1.resources
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.GenerateResource.cache
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.AssemblyInfoInputs.cache
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.AssemblyInfo.cs
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.CoreCompileInputs.cache
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.CopyComplete
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.dll
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\refint\EdgeDetector.dll
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.pdb
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.genruntimeconfig.cache
+D:\Pobrane\EdgeDetector (3)\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\ref\EdgeDetector.dll
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.exe
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.deps.json
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.runtimeconfig.json
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.dll
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetector.pdb
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\bin\Debug\net6.0-windows\EdgeDetectorC.pdb
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.Form1.resources
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.GenerateResource.cache
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.csproj.CopyComplete
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.dll
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\refint\EdgeDetector.dll
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.pdb
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\EdgeDetector.genruntimeconfig.cache
+C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\EdgeDetector\obj\Debug\net6.0-windows\ref\EdgeDetector.dll
