@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rTX0HXZ/3MQkyIQhltLaZZCdDhTpuiGlC8zmrYjEGMbRIKZEG4gNJx2BGc+kdj8A56/iSAqZ3T5dkWwiZyQsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LEGION\\source\\repos\\Projekt_JA\\EdgeDetector\\EdgeDetectorC\\EdgeDetectorC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
