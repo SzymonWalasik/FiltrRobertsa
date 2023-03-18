@@ -1,5 +1,0 @@
-C:\Users\theca\OneDrive\Pulpit\Uczelnia\JA\EdgeDetectorv2\EdgeDetector\AsmProject\x64\Debug\AsmProject.lib
-D:\Pobrane\EdgeDetector\EdgeDetector\AsmProject\x64\Debug\AsmProject.dll
-D:\EdgeDetector\EdgeDetector\EdgeDetector\AsmProject\x64\Debug\AsmProject.dll
-D:\Pobrane\EdgeDetector (3)\EdgeDetector\AsmProject\x64\Debug\AsmProject.dll
-C:\Users\LEGION\source\repos\Projekt_JA\EdgeDetector\AsmProject\x64\Debug\AsmProject.dll
